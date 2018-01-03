@@ -1,8 +1,7 @@
 # TodoList
-
-## reference
+- Make TodoList with jQuery!  
+### reference
 - https://github.com/tastejs/todomvc-app-template  
-- https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone
-
-## Goal
+- https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone   
+### Goal
 - jQuery Study
